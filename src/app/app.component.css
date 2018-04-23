@@ -1,0 +1,21 @@
+.hadline{
+    margin-top: 70px;
+}
+.OpeningSentence{
+margin: auto;
+width: 250px;
+}
+p{
+    font-size: 20px;
+}
+.SecondTitle{
+    font-size: 20px;
+    color: black;
+}
+#Education {padding-top:40px;height:500px;color: #fff; background-color: #1E88E5;}
+#Skills {padding-top:40px;height:500px;color: #fff; background-color: #009688;}
+#Projects {padding-top:40px;height:500px;color: #fff; background-color: #ff9800;}
+#Employment {padding-top:40px;height:500px;color: #fff; background-color: #00bcd4;}
+#Volunteering {padding-top:40px;height:500px;color: #fff; background-color: #673ab7;}
+#Links {padding-top:40px;height:500px;color: #fff; background-color: #96002d;}
+#Various {padding-top:40px;height:500px;color: #fff; background-color: #70745b;}
